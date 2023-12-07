@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T00:40:31 EST" name="Default suite" finished-at="2023-12-07T00:40:40 EST" duration-ms="9124">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T00:40:31 EST" name="Default test" finished-at="2023-12-07T00:40:40 EST" duration-ms="9124">
+      <class name="com.phonelcdparts.loginTest.LoginTest">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:com.phonelcdparts.loginTest.LoginTest@1bb5a082]" started-at="2023-12-07T00:40:31 EST" name="openApplication" finished-at="2023-12-07T00:40:37 EST" duration-ms="6249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="loginTest()[pri:0, instance:com.phonelcdparts.loginTest.LoginTest@1bb5a082]" started-at="2023-12-07T00:40:37 EST" name="loginTest" finished-at="2023-12-07T00:40:40 EST" duration-ms="2451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.phonelcdparts.loginTest.LoginTest@1bb5a082]" started-at="2023-12-07T00:40:40 EST" name="closeApplication" finished-at="2023-12-07T00:40:40 EST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.phonelcdparts.loginTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
